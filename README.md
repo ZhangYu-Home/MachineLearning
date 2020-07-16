@@ -1,0 +1,2 @@
+# MachineLearning
+该仓库用于存放与机器学习相关的代码。其中， （1）文件夹GeneralLearning用于存放普通机器学习的相关代码 （2）文件夹DeepLearning用于存放深度学习的相关代码 （3）文件夹ReinforcementLearning用于存放强化学习的相关代码
